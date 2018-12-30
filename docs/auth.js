@@ -2,7 +2,7 @@
 // at {{ https://cloud.google.com/console }}.
 // If you run this code from a server other than http://localhost,
 // you need to register your own client ID.
-var OAUTH2_CLIENT_ID = "254375087411-5v51agu1mc9e8l6suv8lkfmb0ls7oqpm.apps.googleusercontent.com";
+var OAUTH2_CLIENT_ID = "AIzaSyAZz9rRZvF4zXuMNpy1zlOl83O8Mx8GZBU";
 var OAUTH2_SCOPES = [
   'https://www.googleapis.com/auth/youtube'
 ];
