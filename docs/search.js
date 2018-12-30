@@ -3,6 +3,9 @@ function handleAPILoaded() {
   $('#search-button').attr('disabled', false);
 }
 
+function myFunction() {
+     alert("Hello\nHow are you?");
+
 // Search for a specified string.
 function search() {
   var q = $('#query').val();
